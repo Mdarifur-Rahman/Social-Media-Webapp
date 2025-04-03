@@ -1,6 +1,6 @@
-# 📸 insta485 — Instagram Clone Web App
+# 📸 Instagram Clone Web App
 
-`insta485` is a full-stack Instagram-style web application built as part of the EECS 485 course at the University of Michigan. It supports core social media functionality including user registration, photo uploads, likes, comments, and follower interactions — all built from scratch using modern web technologies.
+A full-stack Instagram-style web application, that supports core social media functionality including user registration, photo uploads, likes, comments, and follower interactions — all built from scratch using modern web technologies.
 
 ## 🧱 Features
 
