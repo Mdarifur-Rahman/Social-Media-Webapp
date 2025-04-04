@@ -60,5 +60,3 @@ pip install -r requirements.txt
 # Run the development server
 flask run
 
-# Run unit tests
-pytest
